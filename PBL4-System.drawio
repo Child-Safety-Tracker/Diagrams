@@ -644,6 +644,33 @@
             <mxPoint x="-230" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EfRPAqn-VJBuJBoE89wM-76" value="Firmware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1560" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EfRPAqn-VJBuJBoE89wM-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="1610" as="sourcePoint" />
+            <mxPoint x="-170" y="1609.68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfRPAqn-VJBuJBoE89wM-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-450" y="1610" as="sourcePoint" />
+            <mxPoint x="-370" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfRPAqn-VJBuJBoE89wM-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="1560" as="sourcePoint" />
+            <mxPoint x="-310" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfRPAqn-VJBuJBoE89wM-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="1500" as="sourcePoint" />
+            <mxPoint x="-230" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
