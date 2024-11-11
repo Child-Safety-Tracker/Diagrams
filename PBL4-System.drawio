@@ -604,12 +604,6 @@
             <mxPoint x="830" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EfRPAqn-VJBuJBoE89wM-52" value="Data packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="740" width="84" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EfRPAqn-VJBuJBoE89wM-53" value="&amp;nbsp;Client data packet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="720" width="84" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
