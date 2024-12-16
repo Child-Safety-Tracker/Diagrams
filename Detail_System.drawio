@@ -98,13 +98,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Yl4MtEkc3vjJpfoT6oy-24" value="Perception" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="115" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Yl4MtEkc3vjJpfoT6oy-25" value="Network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Yl4MtEkc3vjJpfoT6oy-26" value="Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="950" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="935" y="230" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
