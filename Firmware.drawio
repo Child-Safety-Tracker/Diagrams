@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="xfjCjp_biVvFqD9SmS7_">
-    <mxGraphModel>
+    <mxGraphModel dx="1190" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGwpowVDCxDmcfX4gPWl-1" target="EGwpowVDCxDmcfX4gPWl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-1" value="Khởi động &amp;amp; Đọc khóa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGwpowVDCxDmcfX4gPWl-2" target="EGwpowVDCxDmcfX4gPWl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-2" value="Cấu hình Advertising" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGwpowVDCxDmcfX4gPWl-3" target="EGwpowVDCxDmcfX4gPWl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-3" value="Phát tín hiệu&lt;div&gt;(Advertising)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EGwpowVDCxDmcfX4gPWl-4" target="EGwpowVDCxDmcfX4gPWl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-4" value="Ngủ ngắn&lt;div&gt;(Short sleep)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EGwpowVDCxDmcfX4gPWl-5" target="EGwpowVDCxDmcfX4gPWl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-5" value="Ngủ sâu&lt;div&gt;(Deep sleep)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="440" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGwpowVDCxDmcfX4gPWl-13" target="EGwpowVDCxDmcfX4gPWl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGwpowVDCxDmcfX4gPWl-13" target="EGwpowVDCxDmcfX4gPWl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGwpowVDCxDmcfX4gPWl-13" value="Counter" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
